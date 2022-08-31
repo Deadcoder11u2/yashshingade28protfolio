@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { SiCodechef, SiHackerrank } from 'react-icons/si';
+import { SiCodechef, SiHackerrank, SiCodeforces } from 'react-icons/si';
 
 function Resume() {
   return (
@@ -9,7 +9,7 @@ function Resume() {
                 
                 <div className="row">
                     <div className="col-6">
-                        <h2 className="ff-jose fw-bold ls-2">YAGNIK GOHIL</h2>
+                        <h2 className="ff-jose fw-bold ls-2">Yash Shingade</h2>
                     </div>
                 </div>
                 <hr></hr>
@@ -36,16 +36,16 @@ function Resume() {
                         <h4 className="ff-jose ls-2">EDUCATION</h4>
                         <ul>
                             <li>
-                                <h4 className="ff-jose my-1 text-red">BE - Computer Engineering</h4>
-                                <h6 className="blue-label px-2 py-1">2017 - 2021</h6>
-                                <p className="m-0">Gujarat Technological University</p>
-                                <p>CGPA: 8.05</p>
+                                <h4 className="ff-jose my-1 text-red">B Tech - Information Technology</h4>
+                                <h6 className="blue-label px-2 py-1">2020 - 2024</h6>
+                                <p className="m-0">Sardar Patel Institute Of Technology</p>
+                                <p>CGPA: 7.95</p>
                             </li>
                             <li>
                                 <h4 className="ff-jose my-1 text-red">Higher Secondary School</h4>
-                                <h6 className="blue-label px-2 py-1">2017</h6>
-                                <p className="m-0">Shree B.M.Commerce High School</p>
-                                <p>Grade: 71.69 %</p>
+                                <h6 className="blue-label px-2 py-1">2018</h6>
+                                <p className="m-0">New Horizon Public School</p>
+                                <p>Grade: 96.2%</p>
                             </li>
                         </ul>
 
@@ -58,11 +58,11 @@ function Resume() {
                     <div className="col-md-6">
                         <h4 className="ff-jose ls-2">PROFILE</h4>
                         <h1>
-                            <a href="https://www.codechef.com/users/yagnik_003" target="/blank" className="text-white text-decoration-none mx-2">
+                            <a href="https://www.codechef.com/users/yashshingade28" target="/blank" className="text-white text-decoration-none mx-2">
                                 <SiCodechef className="zoom-on-hover"/>
                             </a> 
-                            <a href="https://www.hackerrank.com/Yagnik_003" target="/blank" className="text-white text-decoration-none mx-2">
-                                <SiHackerrank className="zoom-on-hover"/>
+                            <a href="https://www.codeforces.com/profile/yashshingade28" target="/blank" className="text-white text-decoration-none mx-2">
+                                <SiCodeforces className="zoom-on-hover"/>
                             </a> 
                         </h1>
                     </div>

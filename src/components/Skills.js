@@ -14,6 +14,9 @@ function Skills() {
                             <div className="row my-2">
 
                                 <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                                    <img className="technology-image  slide-in-bottom-technology" src="../images/cpp.png" alt="C++ Language"></img>
+                                </div>
+                                <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
                                     <img className="technology-image  slide-in-bottom-technology" src="../images/React.png" alt="React"></img>
                                 </div>
                                 <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
@@ -34,9 +37,6 @@ function Skills() {
  
                                 
                                 <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
-                                    <img className="technology-image  slide-in-bottom-technology" src="../images/cpp.png" alt="C++ Language"></img>
-                                </div>
-                                <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
                                     <img className="technology-image  slide-in-bottom-technology" src="../images/python.png" alt="Python"></img>
                                 </div>
                                 <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
@@ -49,6 +49,15 @@ function Skills() {
                                     <img className="technology-image  slide-in-bottom-technology" src="../images/sql-server.png" alt="SQL Server"></img>
                                 </div>
 
+                                <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                                    <img className="technology-image  slide-in-bottom-technology" src="../images/cassandra.png" alt="SQL Server"></img>
+                                </div>
+                                <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                                    <img className="technology-image  slide-in-bottom-technology" src="../images/java.png" alt="SQL Server"></img>
+                                </div>
+                                <div className="col-lg-3 col-md-3 py-3 col-sm-4 col-6 d-flex justify-content-center">
+                                    <img className="technology-image  slide-in-bottom-technology" src="../images/go.png" alt="SQL Server"></img>
+                                </div>
                             </div>
 
                             
